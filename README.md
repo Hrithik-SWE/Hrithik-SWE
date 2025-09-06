@@ -4,7 +4,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Java-Juggernaut&theme=" alt="Java-Juggernaut" /></a> </p>-->
 
-- 🌱 Full Stack React **Developer**
+- 🌱 Full Stack React Web & App **Developer**
 - 💬 Ask me about **Java**
 
 
