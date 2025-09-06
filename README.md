@@ -4,7 +4,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Java-Juggernaut&theme=" alt="Java-Juggernaut" /></a> </p>-->
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Full Stack React **Developer**
 - 💬 Ask me about **Java**
 
 
